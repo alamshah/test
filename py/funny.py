@@ -1,6 +1,6 @@
 print("i'm hungry")
 hungry="yes"
-if hungry=="yes":
+if hungry=="yes" and hungry=="ya":
 	print("eat samosa")
 	print("eat pizza")
 	print("eat fries")
